@@ -1,0 +1,12 @@
+/* style.css */
+
+body{
+background: #B8C4D7 ;
+}
+
+#main {
+	width: 1000px;
+	height: 600px;
+	background: #FFFFFF;
+	margin: 25px auto;
+}
